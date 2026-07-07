@@ -17,8 +17,8 @@ Passionate about Software Development, Problem Solving, and building real-world 
 # About Me
 
 -  B.Tech in Computer Science & Engineering
--  Interested in Software Development and Problem Solving
--  Currently learning Full Stack Development and Generative AI
+-  Interested in Full Stack Development/Software Development and Problem Solving
+-  Currently learning  Generative AI
 -  Interested in Java Backend Development
 -  Building practical software projects
 
@@ -107,5 +107,11 @@ Modern UI/UX design project.
 <a href="mailto:muskanvs786@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+</p>
+---
+<p align="center">
+
+### **"Code with purpose. Learn with passion. Build with consistency."** 🚀
 
 </p>
