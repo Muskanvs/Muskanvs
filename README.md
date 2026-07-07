@@ -16,11 +16,11 @@ Passionate about Software Development, Problem Solving, and building real-world 
 
 # About Me
 
-- 🎓 B.Tech in Computer Science & Engineering
-- 💻 Interested in Software Development and Problem Solving
-- 🌱 Currently learning Full Stack Development and Generative AI
-- ☕ Interested in Java Backend Development
-- 🚀 Building practical software projects
+-  B.Tech in Computer Science & Engineering
+-  Interested in Software Development and Problem Solving
+-  Currently learning Full Stack Development and Generative AI
+-  Interested in Java Backend Development
+-  Building practical software projects
 
 ---
 
@@ -71,27 +71,9 @@ Modern UI/UX design project.
 
 ---
 
-# GitHub Statistics
 
-<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Muskanvs&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muskanvs&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-# GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Muskanvs&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
 
 # Current Focus
 
