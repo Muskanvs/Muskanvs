@@ -69,7 +69,6 @@ Web application developed for faculty skill development.
 
 Modern UI/UX design project.
 
----
 
 
 
@@ -109,9 +108,11 @@ Modern UI/UX design project.
 </a>
 
 </p>
----
+
 <p align="center">
 
-### **"Code with purpose. Learn with passion. Build with consistency."** 🚀
+### **"Code with purpose. Learn with passion. Build with consistency."** 
+
+</p>
 
 </p>
