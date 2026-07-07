@@ -1,45 +1,45 @@
 <h1 align="center">Hi 👋, I'm Vadla Shaik Muskan</h1>
 
-<h3 align="center">
-Computer Science Undergraduate • Java Developer • Problem Solver
-</h3>
-
 <p align="center">
-Passionate about building software, solving algorithmic challenges, and continuously learning modern technologies.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Computer+Science+Undergraduate;Java+Developer;Problem+Solver;Full+Stack+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 <p align="center">
-<a href="https://github.com/Muskanvs">
-<img src="https://komarev.com/ghpvc/?username=Muskanvs&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</a>
+  Passionate about Software Development, Problem Solving, and building real-world applications.
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Muskanvs&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:4F46E5&height=120&section=header"/>
 
 ---
 
 # 👩‍💻 About Me
 
 - 🎓 B.Tech in Computer Science & Engineering
-- 💻 Strong interest in Software Development and Problem Solving
-- 🌱 Currently learning Full Stack Development & Generative AI
-- 🚀 Interested in Backend Development and Scalable Applications
-- 📚 Always exploring new technologies and building practical projects
+- 💻 Passionate about Software Development and Problem Solving
+- 🌱 Currently learning **Full Stack Development** and **Generative AI**
+- 🚀 Interested in Java Backend Development and building scalable applications
+- 📚 Continuously improving through coding, projects, and hands-on learning
 
 ---
 
 # 🏆 Coding Achievements
 
-### 💻 LeetCode
+## 💻 LeetCode
 
 - ✅ **337+ Problems Solved**
 - 🏅 **Contest Rating:** 1640 (Knight)
 - 📈 **Top:** 98.74%
 - 🎯 **43 Contests Participated**
-- 🏆 **7 Badges Earned**
+- 🥇 **7 Badges Earned**
 
-### 📚 GeeksforGeeks
+## 📚 GeeksforGeeks
 
 - ✅ **201+ Problems Solved**
-- 🥇 **Institute Rank:** 26
+- 🏅 **Institute Rank:** 26
 - 🔥 **Longest Streak:** 86 Days
 - 📅 **160 POTD Solved**
 
@@ -47,38 +47,33 @@ Passionate about building software, solving algorithmic challenges, and continuo
 
 # 💻 Tech Stack
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css,react,tailwind,mysql,git,github,vscode"/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css,react,tailwind,mysql,git,github,vscode&perline=6" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🌐 Personal Portfolio
-Responsive portfolio showcasing my projects, skills, and achievements.
+## 🌐 Personal Portfolio
+A responsive portfolio website showcasing my skills, projects, certifications, and achievements.
 
-### ✋ Rock Paper Scissors Gesture Recognition
-Computer Vision application using hand gesture recognition.
+## ✋ Rock Paper Scissors Gesture Recognition
+A Computer Vision application that recognizes hand gestures to play Rock-Paper-Scissors.
 
-### 🎓 Faculty Skill Nurture
-Web application developed for faculty skill development.
+## 🎓 Faculty Skill Nurture
+A web application developed for faculty skill development.
 
-### 🍔 FoodGo UI/UX
-Modern UI/UX design project focused on user experience.
+## 🍔 FoodGo UI/UX
+A UI/UX design project focused on building intuitive and user-friendly interfaces.
 
 ---
 
 # 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Muskanvs&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muskanvs&layout=compact&theme=github_dark&hide_border=true"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Muskanvs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muskanvs&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -86,19 +81,27 @@ Modern UI/UX design project focused on user experience.
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Muskanvs&theme=github-dark-blue&hide_border=true"/>
-
+<img src="https://streak-stats.demolab.com?user=Muskanvs&theme=tokyonight&hide_border=true"/>
 </p>
+
+---
+
+# 🎯 Current Focus
+
+- ☕ Java Development
+- 🧩 Data Structures & Algorithms
+- 🌐 Full Stack Development
+- 🤖 Generative AI
+- 🚀 Building impactful software projects
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/vadla-shaik-muskan-567837278">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="https://leetcode.com/u/VadlaShaikmuskan/">
@@ -113,10 +116,18 @@ Modern UI/UX design project focused on user experience.
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
+<a href="mailto:muskanvs786@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
+# 💡 Quote
+
+> *"Success comes from continuous learning, consistent practice, and building solutions that create impact."*
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:0E75B6&height=120&section=footer"/>
