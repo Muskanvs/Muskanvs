@@ -28,10 +28,10 @@ Passionate about Software Development, Problem Solving, and building real-world 
 
 ## LeetCode
 
-- **337+ Problems Solved**
+- **355+ Problems Solved**
 - **Contest Rating:** 1640 (Knight)
 - **Top:** 98.74%
-- **43 Contests Participated**
+- **43+ Contests Participated**
 - **7 Badges Earned**
 
 ## GeeksforGeeks
